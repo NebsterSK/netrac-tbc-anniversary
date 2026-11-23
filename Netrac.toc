@@ -1,0 +1,9 @@
+## Interface: 20506
+## Title: Netrac (Nebster Tracking)
+## Notes: Nebster Tracking: trainer trips window, XP/kills/gold/loot/deaths/dungeon tracking, quest XP in the quest log. Writes a snapshot of your character (level, stats, gear, quests, level-up history) to SavedVariables so it can be read outside the game. Read-only, no network.
+## Author: Lukas
+## Version: 0.3
+## SavedVariablesPerCharacter: NEB_CharLogDB, NEB_TrainerDB
+
+Netrac.lua
+Netrac_Trainer.lua
